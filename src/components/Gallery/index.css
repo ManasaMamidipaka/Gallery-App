@@ -1,0 +1,12 @@
+/* Write your code here. */
+img {
+  width: 50%;
+}
+
+body {
+  padding: 30px;
+}
+ul {
+  display: flex;
+  padding: 0px;
+}
